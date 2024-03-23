@@ -5,31 +5,31 @@ Criando a base de dados de filmes
 const filmes = [
     {
     id: 0,
-    nome: 'Harry Potter',
+    nome: 'CORINTHIANS',
     genero: 'fantasia',
     lancamento: 2001
     },
     {
     id: 1,
-    nome: 'Avatar',
+    nome: 'CORINTHIANS',
     genero: 'fantasia',
     lancamento: 2010
     },
     {
      id:2,
-     nome:'O senhor dos Anéis',
+     nome:'CORINTHIANS',
      genero: 'fantasia',
      lancamento: 2000,
     },
     {
      id:3,
-     nome: 'Branquelas',
+     nome: 'CORINTHIANS',
      genero: 'comédia',
      lancamento: 2007
     },
     {
      id:4,
-     nome: 'A Lagoa Azul',
+     nome: 'CORINTHIANS',
      genero: 'romance',
      lancamento: 1983
 }]
@@ -106,7 +106,7 @@ btn1.addEventListener('click',()=>{
     inputUsuario.value = ''
 })
 /*
-Função corrigaaaaaa
+VAI CORINTHIANS !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
 */
 
 const favoritoClicado = (eventoDeClique) => {
